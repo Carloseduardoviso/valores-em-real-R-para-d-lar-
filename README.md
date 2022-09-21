@@ -1,0 +1,1 @@
+# valores-em-real-R-para-d-lar-
