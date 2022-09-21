@@ -7,6 +7,6 @@ function Converter() {
   console.log(valorEmReal);
   
   var elementoValorConvertido = document.getElementById("valorConvertido")
-  var valorConvertido = "O resultado em dóla é $" + valorEmReal
+  var valorConvertido = "O resultado em dólar é $" + valorEmReal
   elementoValorConvertido.innerHTML = valorConvertido
 }
